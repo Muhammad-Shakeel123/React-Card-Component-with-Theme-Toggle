@@ -2,7 +2,7 @@
 Welcome to the **Advanced Card Component with Theme Toggle** project! This React project showcases an elegant card component integrated with a theme toggle switch that allows users to switch between light and dark modes. The card component dynamically fetches and displays your GitHub avatar and personal information, making it a personal showcase.
 
 ## 🚀 Live Demo
-You can view the live demo of the project here: [Theme Switcher Project(Advanced Card Component With Theme Toggle)](https://react-color-and-text-change-project-nhhrurcv5.vercel.app)
+You can view the live demo of the project here: [Theme Switcher Project(Advanced Card Component With Theme Toggle)](https://react-card-component-with-theme-toggle-jw2ozt41u.vercel.app)
 
 ## ✨ Features
 **Responsive Card Component:** A visually appealing card that scales up on hover.
