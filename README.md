@@ -38,6 +38,7 @@ Follow these steps to set up and run the project locally:
     ```
 
 ## 📂 Project Structure
+```bahs
 📦 src
  ┣ 📂 components
  ┃ ┣ 📜 Card.jsx        # Main card component
@@ -48,6 +49,7 @@ Follow these steps to set up and run the project locally:
  ┣ 📜 App.jsx            # Main app file
  ┣ 📜 index.css          # Global CSS
  ┗ 📜 main.jsx           # Entry point
+```
 
 # ⚙️ Functionalities
 ## 🃏 Card Component
